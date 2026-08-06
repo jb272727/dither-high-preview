@@ -37,8 +37,4 @@ Video processing uses FFmpeg and FFprobe for frame extraction, metadata probing,
 
 React, TypeScript, Vite, Tauri, Rust, Rayon, the Rust `image` crate, FFmpeg, FFprobe, `ab_glyph`, `fontdb`, and Criterion.
 
-## Add more screenshots
-
-Add future examples to [`assets/screenshots`](assets/screenshots/) with names such as `example3.png`, `example4.png`, and beyond. Add each image to the gallery near the top of this README when it is ready to showcase.
-
 This preview repository contains the project overview and gallery assets.
