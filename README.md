@@ -6,7 +6,11 @@
   <img src="assets/screenshots/example1.png" alt="Dither High workspace showing a colorful dithered flower" width="49%" />
   <img src="assets/screenshots/example2.png" alt="Dither High custom palette editor" width="49%" />
 </p>
-<p align="center"><em>Image processing workspace and custom palette editor.</em></p>
+<p align="center">
+  <img src="assets/screenshots/example3.png" alt="Dither High video preview with a rider at sunset" width="49%" />
+  <img src="assets/screenshots/example4.png" alt="Dither High ASCII layer rendering a grayscale moon" width="49%" />
+</p>
+<p align="center"><em>Image processing, palette creation, video dithering, and ASCII rendering.</em></p>
 
 ## What is dithering?
 
